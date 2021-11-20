@@ -1,7 +1,8 @@
 .footer{
     background-color: #011627;
-    height: 200px;
-    display: flex;
+    height: 270px;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .list{
@@ -9,4 +10,38 @@
     list-style: none;
     align-items: center;
     flex-wrap: wrap;
+    color: azure;
+    gap: 50px;
+    justify-content: center;
 }
+
+.localizacao{
+    color: azure;
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 290px;
+}
+
+
+.traco{
+    width: 40px;
+    height: 7px;
+    background-color: orange;
+
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 60px;
+    width: 230px;
+}
+
+.logodofooter > img{
+    padding-top: 80px;
+    margin-left: 30px;
+}
+

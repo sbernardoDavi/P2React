@@ -29,7 +29,7 @@ function Header(){
                             <li className={styles.item}> <a class= "" href=""><img src={usuario} width="auto" height="20px"></img></a> </li>
                         </div>
                         <div>
-                            <p className={styles.textominhaconta}> Minha conta</p>
+                            <p className={styles.textominhaconta}> Minha Conta</p>
 
                         </div>
                     </div>
