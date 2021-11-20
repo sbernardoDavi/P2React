@@ -1,0 +1,12 @@
+.footer{
+    background-color: #011627;
+    height: 200px;
+    display: flex;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
